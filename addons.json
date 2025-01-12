@@ -1,9 +1,9 @@
 [
   {
-    "uid": "org.openhab.binding.mysensors",
+    "uid": "org-openhab-binding-mysensors",
     "id": "mysensors",
     "type": "binding",
-    "version": "4.3.2-SNAPSHOT",
+    "version": "4.3.2",
     "author": "CyborgAndy",
     "maturity": "stable",
     "content_type": "application/vnd.openhab.feature;type=karfile",
