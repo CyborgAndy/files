@@ -1,6 +1,6 @@
 [
   {
-    "uid": "org.openhab.binding.mysensors",
+    "uid": "org-openhab-binding-mysensors",
     "id": "mysensors",
     "type": "binding",
     "version": "4.3.2",
