@@ -8,7 +8,7 @@
     "maturity": "stable",
     "content_type": "application/vnd.openhab.feature;type=karfile",
     "link": "https://github.com/CyborgAndy/files/blob/main/mysensors/README.md",
-    "url": "https://github.com/CyborgAndy/files/blob/main/mysensors/org.openhab.binding.mysensors-4.3.2-SNAPSHOT.kar",
+    "url": "https://github.com/CyborgAndy/files/blob/main/mysensors/org.openhab.binding.mysensors-4.3.2-SNAPSHOT.kar?raw=true",
     "title": "MySensors Binding",
     "description": "This is the binding for MySensors.",
     "compatible_versions": "[4.3.0.0;4.3.999)",
