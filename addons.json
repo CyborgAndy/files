@@ -6,7 +6,7 @@
     "version": "4.3.2",
     "author": "CyborgAndy",
     "maturity": "stable",
-    "content_type": "application/vnd.openhab.feature",
+    "content_type": "application/vnd.openhab.bundle",
     "link": "https://github.com/CyborgAndy/files/blob/main/mysensors/README.md",
     "url": "https://dsg.org.ua/inst/org.openhab.binding.mysensors-4.3.2-SNAPSHOT.jar",
     "title": "MySensors Binding",
