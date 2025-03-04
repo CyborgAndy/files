@@ -1,0 +1,45 @@
+[
+  {
+    "uid": "org-openhab-binding-mysensors",
+    "id": "mysensors",
+    "type": "binding",
+    "version": "4.3.2",
+    "author": "CyborgAndy",
+    "maturity": "stable",
+    "content_type": "application/vnd.openhab.bundle",
+    "link": "https://github.com/CyborgAndy/files/blob/main/mysensors/README.md",
+    "url": "https://github.com/CyborgAndy/files/blob/main/mysensors/org.openhab.binding.mysensors-4.3.2-SNAPSHOT.jar",
+    "title": "MySensors Binding",
+    "description": "This is the binding for MySensors.",
+    "compatible_versions": "[4.3.0.0;4.3.999)",
+    "logger_packages": [ "org.openhab.binding.mysensors" ]
+  },
+  {
+    "uid": "dev-org-smarthome-binding-tuya",
+    "id": "tuya",
+    "type": "binding",
+    "version": "4.3.2",
+    "author": "SmartHome/J",
+    "maturity": "stable",
+    "content_type": "application/vnd.openhab.feature;type=karfile",
+    "url": "https://github.com/CyborgAndy/files/blob/main/smarthomej/org.smarthomej.binding.tuya-4.3.2-SNAPSHOT.kar",
+    "title": "SmartHome/J Tuya Binding (dev-3.5)",
+    "description": "This addon connects Tuya WiFi devices with openHAB or compatible systems. The control and status reporting is done on the local network. Cloud access is only needed for discovery and initial connection. ",
+    "compatible_versions": "[4.3.0.0;4.3.999)",
+    "logger_packages": [ "org.smarthomej.binding.tuya" ]
+  },
+  {
+    "uid": "dev-org-smarthome-binding-tuya",
+    "id": "tuya",
+    "type": "binding",
+    "version": "5.0.0",
+    "author": "SmartHome/J",
+    "maturity": "stable",
+    "content_type": "application/vnd.openhab.feature;type=karfile",
+    "url": "https://github.com/CyborgAndy/files/blob/main/smarthomej/org.smarthomej.binding.tuya-5.0.0-SNAPSHOT.kar",
+    "title": "SmartHome/J Tuya Binding (dev-3.5)",
+    "description": "This addon connects Tuya WiFi devices with openHAB or compatible systems. The control and status reporting is done on the local network. Cloud access is only needed for discovery and initial connection. ",
+    "compatible_versions": "[5.0.0.0;5.0.999)",
+    "logger_packages": [ "org.smarthomej.binding.tuya" ]
+  }
+]
